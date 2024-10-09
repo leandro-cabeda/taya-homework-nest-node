@@ -20,7 +20,7 @@ Antes de começar, certifique-se de ter o seguinte instalado em seu ambiente:
 
 1. Clone este repositório:
 
-   git clone https://github.com/seu-usuario/taya-backend-homework.git
+   git clone https://github.com/leandro-cabeda/taya-homework-nest-node
    cd taya-backend-homework
 
 2. Instale as dependencias do projeto.
